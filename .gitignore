@@ -1,0 +1,5 @@
+/backup
+/User/*
+
+!/User/Preferences.sublime-settings
+!/User/Package Control.sublime-settings
